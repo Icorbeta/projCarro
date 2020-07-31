@@ -3,6 +3,10 @@
  */
 public class Carro {
 
-    private string placa;
-       
+    private String placa;
+
+    public String getPlaca();{
+        return placa;
+    }
+
 }
